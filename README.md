@@ -1,0 +1,1 @@
+The current project is a basic recipe webiste. It will consist of a main index page which will have links to a few recipes. I expect to have demonstrated how to set up an index page and how to put links in html.
